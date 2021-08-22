@@ -1,8 +1,5 @@
 // Function to pull names from json file and add them in the filter
 
-
-
-
 var drawChart = function(x_data, y_data, hoverText, metadata) {
 
 
