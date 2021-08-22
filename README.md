@@ -9,6 +9,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 Dataset used for this analysis can be found here: 
 https://github.com/nicky-plat/Belly-Button-Biodiversity/blob/main/data/samples.json
 
+<img src="Images/dashboard.png" >
 ### View my dashboard using the link below:
 
 https://nicky-plat.github.io/Belly-Button-Biodiversity/
